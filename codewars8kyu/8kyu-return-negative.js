@@ -12,6 +12,9 @@
 //
 //Zero (0) is not checked for any specific sign. Negative zeros make no mathematical sense.
 
+
+//Solution:
+
 function makeNegative(num) {
     return -Math.abs(num);
   }

@@ -9,6 +9,8 @@
 //"1405" --> 1405
 //"-7" --> -7
 
+//Solution:
+
 const stringToNumber = function(str){
     return parseInt(str);
   }
