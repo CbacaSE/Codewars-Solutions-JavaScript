@@ -7,6 +7,9 @@
 // "scissors", "rock" --> "Player 2 won!"
 // "paper", "paper" --> "Draw!"
 
+
+//SOLUTION:
+
 const rps = (p1, p2) => {
     if(p1 === p2){
         return 'Draw!';
