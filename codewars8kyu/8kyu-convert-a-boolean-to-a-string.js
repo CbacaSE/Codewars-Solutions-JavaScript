@@ -5,7 +5,7 @@
 // Note: Only valid inputs will be given.
 
 
-
+//Solution:
 
 function booleanToString(b){
     if(b){
