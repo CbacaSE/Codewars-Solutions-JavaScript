@@ -10,3 +10,4 @@ function squareSum(numbers){
     }
     return totalSquare;
   }
+  
