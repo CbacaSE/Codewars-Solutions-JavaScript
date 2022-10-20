@@ -13,3 +13,13 @@
 //
 //Hint: Don't forget to check for bad values like null/undefined
 
+//Solution:
+
+function countSheeps(arrayOfSheep) {
+    let presentSheep = 0;
+    for(let i = 0; i < arrayOfSheep.length; i++) {
+      if(arrayOfSheep[i]) presentSheep += 1
+    }
+    return presentSheep
+  }
+
