@@ -7,7 +7,6 @@ Link to website: https://www.codewars.com/
 
 
 
-How It's Made:
 Tech used: JavaScript
 
 Codewars was a way that I could practice my JavaScript skills everyday depending on difficulty. I've tried to use codewars everyday in order to help myself continue to learn and also relearn some things I may have become rusty on.
