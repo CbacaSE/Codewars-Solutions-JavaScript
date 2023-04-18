@@ -11,3 +11,6 @@
 // -1050 -> -105
 // Zero alone is fine, don't worry about it. Poor guy anyway
 
+function noBoringZeros(n) {
+    // your code
+  }
