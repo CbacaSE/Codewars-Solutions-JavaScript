@@ -13,5 +13,10 @@
 
 
 function addLength(str) {
-    //start-here
+    let array = str.split(" ");
+    let final = [];
+    for (let i = 0; i < array.length; i++) {
+        final.push(`${array[i]} ${array[i].length}`);
+    }
+    return final;
 }
