@@ -19,4 +19,4 @@ function addLength(str) {
         final.push(`${array[i]} ${array[i].length}`);
     }
     return final;
-}   
+}    
