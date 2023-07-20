@@ -10,3 +10,8 @@
 // XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
 // XO("zzoo") => false
 
+function XO(str) {
+    const numberOfX = str.match(/x/gi)?.length ? str.match(/x/gi)?.length : 0
+    const numberOfO = str.match(/o/gi)?.length ? str.match(/o/gi)?.length : 0
+    return (numberOfX === numberOfO)
+}
