@@ -15,3 +15,6 @@
 
 //Solution:
 
+function highAndLow(numbers){
+    
+}
