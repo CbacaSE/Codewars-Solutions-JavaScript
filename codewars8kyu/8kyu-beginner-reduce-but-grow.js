@@ -6,3 +6,6 @@
 
 // Solution:
 
+function grow(x){
+
+}
