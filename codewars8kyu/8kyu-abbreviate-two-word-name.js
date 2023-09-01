@@ -9,6 +9,5 @@
 //Solution:
 
 function abbrevName(name){
-
-
+    return name.split(' ').map(i => i.charAt(0)).join('.').toUpperCase();
 }
