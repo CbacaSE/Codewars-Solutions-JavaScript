@@ -6,3 +6,7 @@
 // [1, 2, 3] --> [2, 4, 6]
 
 //Solution:
+
+function maps(x){
+    return x.map(n => n * 2);
+}
