@@ -18,3 +18,4 @@
 function squareDigits(num){
     return 0;
 }
+//need to complete
