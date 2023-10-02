@@ -14,8 +14,4 @@
 
 //Solution:
 
-
-function squareDigits(num){
-    return 0;
-}
-//need to complete
+const squareDigits = num => +String(num).split('').map(element => element ** 2).join('');
