@@ -11,6 +11,5 @@
 
 //Solution:
 
-function descendingOrder(n){
-    //...
-}
+const decendingOrder = n =>
+console.log(n)
