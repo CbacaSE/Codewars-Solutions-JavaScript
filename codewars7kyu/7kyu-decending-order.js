@@ -12,4 +12,4 @@
 //Solution:
 
 const decendingOrder = n =>
-console.log(n)
+console.log(String(n))
