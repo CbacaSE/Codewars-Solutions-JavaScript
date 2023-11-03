@@ -5,3 +5,5 @@
 // String will never be empty and you do not need to account for different data types.
 // Fundamentals
 
+function findShort(s){
+}
